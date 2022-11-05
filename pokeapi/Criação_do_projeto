@@ -1,0 +1,10 @@
+Etapas criadas
+
+1- criado ambiante virtual
+2- ativação do ambiente virtual
+3- instalação do django
+4- ativação do django ao projeto
+5- criado um FILE para as dependências do projeto
+6- criado arquivo gitignore para subir o projeto no gitignore
+7- acessar projeto link http://127.0.0.1:8000/clientes/
+
